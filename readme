@@ -1,0 +1,5 @@
+# KartingWorldTour
+
+This program simulates a kart racing game with five karts, each completing five laps. Each lap is simulated by
+generating a random time for each kart and updating the total time for each kart. After each lap, the karts are 
+ranked based on their total time.
